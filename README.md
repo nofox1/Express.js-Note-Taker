@@ -1,1 +1,0 @@
-# Nolan-s-note-taker
