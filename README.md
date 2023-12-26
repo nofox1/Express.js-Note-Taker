@@ -7,7 +7,7 @@
 - [User Story](#user-story)
 - [Technologies and Frameworks Used](#technologies-frameworks-used)
 - [Usage Instructions](usage-instructions)
-- [Deployed Site](#Deployed Site)
+- [Deployed Site](#Deployed-Site)
 
 
 ## Technologies 
@@ -24,4 +24,4 @@
 
 
 
-##[Deployed Site](https://express-note-taker-40-a48cb1f2b608.herokuapp.com/)
+## [Deployed Site](https://express-note-taker-40-a48cb1f2b608.herokuapp.com/)
